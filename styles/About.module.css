@@ -1,0 +1,47 @@
+.aboutContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  
+  .descripContainer {
+    width: 50%;
+    font-size: 1em;
+    color: rgb(60, 60, 60);
+    line-height: 1.8em;
+  }
+  
+  .aboutTitle {
+    font-weight: 700;
+    font-size: 2em;
+  }
+  
+  .profContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .iconContainer {
+    display: flex;
+    justify-content: center;
+    gap: 20%;
+  }
+  
+  .profPic {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+  }
+  
+  /* a, a:visited, a:hover, a:active {
+    color: inherit;
+  } */
+
+  .link-anchor, .link-anchor:visited, .link-anchor:hover, .link-anchor:active {
+    color: inherit;
+  }

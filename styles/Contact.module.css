@@ -1,0 +1,33 @@
+.contactContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 6%;
+}
+
+.contactTitle {
+  font-size: 3em;
+  color: rgb(60, 60, 60);
+}
+
+.profPic {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.picSocials {
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+}
+
+.socials {
+  font-size: 1em;
+  color: rgb(60, 60, 60);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5%;
+}
+

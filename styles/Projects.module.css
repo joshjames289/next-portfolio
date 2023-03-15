@@ -1,0 +1,56 @@
+.projectsContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: .5%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.projectsTitle {
+  font-size: 3em;
+}
+
+.projectContainer {
+    display: flex;
+}
+
+.projectCard {
+  border: 1px solid rgb(227, 227, 227);
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gray;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2%;
+}
+
+.projectCard:hover {
+    transform: scale(1.04);
+}
+
+
+.projectAnchor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.projectPic {
+  width: 80%;
+  height: 80%;
+  border-radius: 10px;
+}
+
+.projectTitle {
+  font-size: 2em;
+  color: rgb(60, 60, 60);
+}
+
+.projectDescrip {
+  font-size: 1em;
+  margin: 5% 15% 5% 15%;
+  text-align: center;
+  color: rgb(60, 60, 60);
+}

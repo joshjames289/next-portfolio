@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 1.2em;
+    color: rgb(60, 60, 60);
+}
+
+.link:hover {
+    text-decoration: none;
+    color: blueviolet;
+    cursor: pointer;
+}

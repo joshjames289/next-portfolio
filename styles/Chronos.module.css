@@ -1,0 +1,46 @@
+.chronosContainer {
+    display: flex;
+    justify-content: center;
+    gap: 15%;
+    margin-top: 5%;
+}
+
+.contributionContainer {
+    width: 50%;
+}
+
+.contributionTitle {
+    font-weight: 700;
+    font-size: 1.8em;
+}
+
+.contributionDescrip {
+    line-height: 1.8;
+}
+
+.checkContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 10%;
+    margin-top: 5%;
+    margin-bottom: 25%;
+}
+
+.checkContainer a {
+    font-size: 1.6em;
+}
+
+.checkTitle {
+    font-size: 2em;
+}
+
+.checkItem {
+    display: flex;
+    align-items: center;
+    gap: 10%;
+}
+
+.chronosBullet {
+    line-height: 1.8;
+}
