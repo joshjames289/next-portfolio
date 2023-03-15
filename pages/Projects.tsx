@@ -44,8 +44,8 @@ function Projects() {
             <h2 className={styles.projectTitle}>Jobify</h2>
             <Image
               src="/jobify.png"
-              height={200}
-              width={200}
+              height={500}
+              width={500}
               alt="jobify image"
               className={styles.projectPic}
             />
@@ -65,8 +65,8 @@ function Projects() {
             <Image
               src="/crisp-garmets.png"
               className={styles.projectPic}
-              height={200}
-              width={200}
+              height={500}
+              width={500}
               alt="crisp garments image"
             />
             <p className={styles.projectDescrip}>

@@ -15,7 +15,7 @@ function Contact() {
     <div className={styles.contactContainer}>
       <h1 className={styles.contactTitle}>Contact</h1>
       <div className={styles.picSocials}>
-        <Image src="/prof.png" className={styles.profPic} height={100} width={100} alt="profile pic" />
+        <Image src="/prof.png" className={styles.profPic} height={500} width={500} alt="profile pic" />
         <div className={styles.socials}>
           <HiOutlineMail size={25} />
           joshua.k.james6@gmail.com

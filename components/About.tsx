@@ -15,7 +15,7 @@ function About() {
         </p>
       </div>
       <div className={styles.profContainer}>
-        <Image src="/prof.png" className={styles.profPic} alt="profile image" width={100} height={100}/>
+        <Image src="/prof.png" className={styles.profPic} alt="profile image" width={500} height={500}/>
         <div className={styles.iconContainer}>
           <a
             target="_blank"
