@@ -7,7 +7,7 @@ module.exports = {
           protocol: 'https',
           hostname: 'github.com',
           port: '',
-          pathname: '/open-source-labs/Chronos/tree/master/assets/**',
+          pathname: '/open-source-labs/Chronos/raw/master/assets/**',
         },
       ],
     },
