@@ -4,7 +4,6 @@ import NavBar from './NavBar';
 
 interface Props {
   children?: ReactNode
-  // any props that come into the component
 }
 
 export default function Layout ({ children }: Props) {
