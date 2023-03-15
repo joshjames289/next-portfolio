@@ -21,7 +21,7 @@ function Projects() {
           >
             <h2 className={styles.projectTitle}>Chronos</h2>
             <Image
-              src="/chronos-gif.bin"
+              src="https://github.com/joshjames289/next-portfolio/public/chronos-gif.bin"
               height={100}
               width={100}
               alt="chronos gif"

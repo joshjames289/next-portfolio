@@ -44,7 +44,7 @@ function Publications() {
           >
             <h2 className={styles.techMedTitle}>Medium Article</h2>
             <Image
-              src="/chronos-gif.bin"
+              src="https://github.com/joshjames289/next-portfolio/public/chronos-gif.bin"
               className={styles.techMedPic}
               height={100}
               width={100}

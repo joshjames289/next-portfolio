@@ -7,7 +7,7 @@ module.exports = {
           protocol: 'https',
           hostname: 'github.com',
           port: '',
-          pathname: '/oslabs-beta/RediScope/raw/main/src/components/images/**',
+          pathname: '/joshjames289/next-portfolio/public/**',
         },
       ],
     },
