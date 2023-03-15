@@ -24,8 +24,8 @@ function Publications() {
             <Image
               src="/tech talk slide 1.png"
               className={styles.techMedPic}
-              height={100}
-              width={100}
+              height={200}
+              width={200}
               alt="tech talk image"
             />
             <p className={styles.techMedDescrip}>
