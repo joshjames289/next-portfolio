@@ -21,9 +21,9 @@ function Projects() {
           >
             <h2 className={styles.projectTitle}>Chronos</h2>
             <Image
-              src="https://github.com/open-source-labs/Chronos/raw/master/assets/animated_logo.gif"
-              height={100}
-              width={100}
+              src="/chronos-sh.png"
+              height={500}
+              width={500}
               alt="chronos gif"
               className={styles.projectPic}
             />

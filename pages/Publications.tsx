@@ -44,11 +44,11 @@ function Publications() {
           >
             <h2 className={styles.techMedTitle}>Medium Article</h2>
             <Image
-              src="https://github.com/open-source-labs/Chronos/raw/master/assets/animated_logo.gif"
+              src="/chronos-logo.png"
               //https://github.com/oslabs-beta/RediScope/tree/main/src/components/images
               className={styles.techMedPic}
-              height={100}
-              width={100}
+              height={500}
+              width={500}
               alt="chronos gif"
             />
 
